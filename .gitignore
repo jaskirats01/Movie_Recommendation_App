@@ -1,7 +1,3 @@
 .env
 .venv
 __pycache__
-*.pkl
-*.ipynb
-__pycache__/
-.env
